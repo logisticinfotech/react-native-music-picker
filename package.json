@@ -1,0 +1,32 @@
+{
+  "name": "@logisticinfotech/react-native-music-picker",
+  "version": "1.0.0",
+  "description": "React Native music picker library for android and ios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React Native",
+    "React",
+    "Music",
+    "Picker",
+    "Music Picker",
+    "Music Multi Select",
+    "Music Select"
+  ],
+  "author": "Shubham Vala, Darshan Dixit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/logisticinfotech/react-native-music-picker/issues"
+  },
+  "homepage": "https://github.com/logisticinfotech/react-native-music-picker#readme",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.13",
+    "typescript": "^3.4.3"
+  }
+}
